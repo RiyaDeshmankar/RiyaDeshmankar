@@ -37,8 +37,8 @@
 ---
 
 ### 📊 GitHub Stats
-
-![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiyaDeshmankar&show_icons=true&theme=tokyonight)
+[
+](https://github-readme-stats.vercel.app/api?username=RiyaDeshmankar&show_icons=true&theme=tokyonight)![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiyaDeshmankar&show_icons=true&theme=tokyonight)
 
 ---
 
