@@ -4,7 +4,9 @@
 </p>
 
 <h3 align="center">CSE Student | Django Developer | DSA Enthusiast</h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RiyaDeshmankar&color=blue&style=flat" alt="profile views"/>
+</p>
 ---
 
 ### 👩‍💻 About Me
@@ -23,6 +25,14 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🛠 Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,django,cpp,html,css,git,github,mysql,postgresql,linux,vscode" />
+</p>
 
 ---
 
