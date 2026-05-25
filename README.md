@@ -1,73 +1,51 @@
-<h1 align="center">Hi 👋, I'm Riya Deshmankar</h1>
-
+<h1 align="center">Hi 👋, I'm Riya</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student;Django+Developer;DSA+Enthusiast;Exploring+AI+and+Open+Source&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Django+Developer;DSA+Enthusiast;Full+Stack+Developer+In+Progress&center=true&width=500&height=45">
 </p>
 
-<h3 align="center">
-Computer Science Engineering Student | Django Developer | Problem Solver
-</h3>
+<h3 align="center">CSE Student | Django Developer | DSA Enthusiast</h3>
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
-🎓 Computer Science Engineering student at KIET Group of Institutions (2023–2027)
-
-💻 Building backend and web development projects using Django
-
-📚 Solved 120+ DSA problems in C++
-
-🌱 Currently learning:
-- Backend Development
-- Data Structures & Algorithms
-- Open Source Collaboration
-- AI & Research Fundamentals
-
-🚀 Preparing for placements while building practical projects
-
-🎯 Goal:
-Contribute to impactful software and AI-driven projects while continuously learning and growing as a developer.
+- 🎓 Computer Science Engineering Student  
+- 💻 Currently building Django projects  
+- 🚀 Preparing for placements  
+- 🌱 Learning Backend Development & DSA  
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
-
-### 🌐 Web Development
-- Django Image Uploader
-- Frontend Projects
-- Personal Web Applications
-
-### 🧠 Problem Solving
-- DSA Practice Repository (C++)
-
-### 🚀 Currently Working On
-- Backend Development Projects
-- Expanding GitHub Portfolio
-- Exploring AI & Open Source
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiyaDeshmankar&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=RiyaDeshmankar&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
+### 📌 Featured Projects
 
-LinkedIn: YOUR_LINK  
-Email: riyabusiness1409@gmail.com
+- 📸 Django Image Uploader  
+- 🧠 DSA Practice Repository  
+- 🌐 Frontend Projects  
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/riya-deshmankar-6a0b38286/
